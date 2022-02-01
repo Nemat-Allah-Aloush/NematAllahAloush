@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nemat Aloush
-- 👀 I’m interested in Machine Learning 
+- 👀 I’m interested in Software Engineering tasks and Machine Learning 
 - 🌱 I’m currently learning Big Data and Machine Learning
 - 📫 How to reach me : neemat77@gmail.com
 
